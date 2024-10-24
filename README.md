@@ -1,4 +1,4 @@
-<title>kauaindio</title>/title>KAUAINDIO
+<title>kauaindio</title></title>KAUAINDIO</title>
 
 <html lang="pt-BR">
 
